@@ -297,4 +297,4 @@ power = power.set_index('FIPS')
 lst = list_dict['county_fips']
 power = power.loc[lst]
 power.reset_index(inplace = True)
-power.to_csv('data/test.csv')  #### Remember to change this one
+power.to_csv('data/choropleth.csv') 

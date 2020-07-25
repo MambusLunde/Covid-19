@@ -68,35 +68,35 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 01131,Alabama,Wilcox,10373,0.10373
 01133,Alabama,Winston,23629,0.23629
 02000,Alaska,Alaska,731545,7.31545
-02013,Alaska,Aleutians East Borough,3337,0.03337
-02016,Alaska,Aleutians West Census Area,5634,0.05634
-02020,Alaska,Anchorage Municipality,288000,2.88
-02050,Alaska,Bethel Census Area,18386,0.18386
-02060,Alaska,Bristol Bay Borough,836,0.00836
-02068,Alaska,Denali Borough,2097,0.02097
-02070,Alaska,Dillingham Census Area,4916,0.04916
-02090,Alaska,Fairbanks North Star Borough,96849,0.96849
-02100,Alaska,Haines Borough,2530,0.0253
-02105,Alaska,Hoonah-Angoon Census Area,2148,0.02148
-02110,Alaska,Juneau City and Borough,31974,0.31974
-02122,Alaska,Kenai Peninsula Borough,58708,0.58708
-02130,Alaska,Ketchikan Gateway Borough,13901,0.13901
-02150,Alaska,Kodiak Island Borough,12998,0.12998
-02158,Alaska,Kusilvak Census Area,8314,0.08314
-02164,Alaska,Lake and Peninsula Borough,1592,0.01592
-02170,Alaska,Matanuska-Susitna Borough,108317,1.08317
-02180,Alaska,Nome Census Area,10004,0.10004
-02185,Alaska,North Slope Borough,9832,0.09832
-02188,Alaska,Northwest Arctic Borough,7621,0.07621
-02195,Alaska,Petersburg Borough,3266,0.03266
-02198,Alaska,Prince of Wales-Hyder Census Area,6203,0.06203
-02220,Alaska,Sitka City and Borough,8493,0.08493
-02230,Alaska,Skagway Municipality,1183,0.01183
-02240,Alaska,Southeast Fairbanks Census Area,6893,0.06893
-02261,Alaska,Valdez-Cordova Census Area,9202,0.09202
-02275,Alaska,Wrangell City and Borough,2502,0.02502
-02282,Alaska,Yakutat City and Borough,579,0.00579
-02290,Alaska,Yukon-Koyukuk Census Area,5230,0.0523
+02013,Alaska,Aleutians East,3337,0.03337
+02016,Alaska,Aleutians West,5634,0.05634
+02020,Alaska,Anchorage,288000,2.88
+02050,Alaska,Bethel,18386,0.18386
+02060,Alaska,Bristol Bay,836,0.00836
+02068,Alaska,Denali,2097,0.02097
+02070,Alaska,Dillingham,4916,0.04916
+02090,Alaska,Fairbanks North Star,96849,0.96849
+02100,Alaska,Haines,2530,0.0253
+02105,Alaska,Hoonah-Angoon,2148,0.02148
+02110,Alaska,Juneau,31974,0.31974
+02122,Alaska,Kenai Peninsula,58708,0.58708
+02130,Alaska,Ketchikan Gateway,13901,0.13901
+02150,Alaska,Kodiak Island,12998,0.12998
+02158,Alaska,Wade Hampton,8314,0.08314
+02164,Alaska,Lake and Peninsula,1592,0.01592
+02170,Alaska,Matanuska-Susitna,108317,1.08317
+02180,Alaska,Nome,10004,0.10004
+02185,Alaska,North Slope,9832,0.09832
+02188,Alaska,Northwest Arctic,7621,0.07621
+02195,Alaska,Petersburg,3266,0.03266
+02198,Alaska,Prince of Wales-Hyder,6203,0.06203
+02220,Alaska,Sitka,8493,0.08493
+02230,Alaska,Skagway,1183,0.01183
+02240,Alaska,Southeast Fairbanks,6893,0.06893
+02261,Alaska,Valdez-Cordova,9202,0.09202
+02275,Alaska,Wrangell,2502,0.02502
+02282,Alaska,Yakutat,579,0.00579
+02290,Alaska,Yukon-Koyukuk,5230,0.0523
 04000,Arizona,Arizona,7278717,72.78717
 04001,Arizona,Apache,71887,0.71887
 04003,Arizona,Cochise,125922,1.25922
@@ -1833,7 +1833,7 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 35007,New Mexico,Colfax,11941,0.11941
 35009,New Mexico,Curry,48954,0.48954
 35011,New Mexico,De Baca,1748,0.01748
-35013,New Mexico,Doña Ana,218195,2.18195
+35013,New Mexico,Dona Ana,218195,2.18195
 35015,New Mexico,Eddy,58460,0.5846
 35017,New Mexico,Grant,26998,0.26998
 35019,New Mexico,Guadalupe,4300,0.043
