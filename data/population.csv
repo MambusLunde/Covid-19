@@ -82,7 +82,7 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 02122,Alaska,Kenai Peninsula,58708,0.58708
 02130,Alaska,Ketchikan Gateway,13901,0.13901
 02150,Alaska,Kodiak Island,12998,0.12998
-02158,Alaska,Wade Hampton,8314,0.08314
+02270,Alaska,Wade Hampton,8314,0.08314
 02164,Alaska,Lake and Peninsula,1592,0.01592
 02170,Alaska,Matanuska-Susitna,108317,1.08317
 02180,Alaska,Nome,10004,0.10004
@@ -657,7 +657,7 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 17093,Illinois,Kendall,128990,1.2899
 17095,Illinois,Knox,49699,0.49699
 17097,Illinois,Lake,696535,6.96535
-17099,Illinois,La Salle,108669,1.08669
+17099,Illinois,LaSalle,108669,1.08669
 17101,Illinois,Lawrence,15678,0.15678
 17103,Illinois,Lee,34096,0.34096
 17105,Illinois,Livingston,35648,0.35648
@@ -1236,7 +1236,7 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 24043,Maryland,Washington,151049,1.51049
 24045,Maryland,Wicomico,103609,1.03609
 24047,Maryland,Worcester,52276,0.52276
-24510,Maryland,Baltimore city,593490,5.9349
+24510,Maryland,Baltimore,593490,5.9349
 25000,Massachusetts,Massachusetts,6892503,68.92503
 25001,Massachusetts,Barnstable,212990,2.1299
 25003,Massachusetts,Berkshire,124944,1.24944
@@ -1622,7 +1622,7 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 29225,Missouri,Webster,39592,0.39592
 29227,Missouri,Worth,2013,0.02013
 29229,Missouri,Wright,18289,0.18289
-29510,Missouri,St. Louis city,300576,3.00576
+29510,Missouri,St. Louis,300576,3.00576
 30000,Montana,Montana,1068778,10.68778
 30001,Montana,Beaverhead,9453,0.09453
 30003,Montana,Big Horn,13319,0.13319
@@ -2961,44 +2961,44 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 51195,Virginia,Wise,37383,0.37383
 51197,Virginia,Wythe,28684,0.28684
 51199,Virginia,York,68280,0.6828
-51510,Virginia,Alexandria city,159428,1.59428
-51520,Virginia,Bristol city,16762,0.16762
-51530,Virginia,Buena Vista city,6478,0.06478
-51540,Virginia,Charlottesville city,47266,0.47266
-51550,Virginia,Chesapeake city,244835,2.44835
-51570,Virginia,Colonial Heights city,17370,0.1737
-51580,Virginia,Covington city,5538,0.05538
-51590,Virginia,Danville city,40044,0.40044
-51595,Virginia,Emporia city,5346,0.05346
-51600,Virginia,Fairfax city,24019,0.24019
-51610,Virginia,Falls Church city,14617,0.14617
-51620,Virginia,Franklin city,7967,0.07967
-51630,Virginia,Fredericksburg city,29036,0.29036
-51640,Virginia,Galax city,6347,0.06347
-51650,Virginia,Hampton city,134510,1.3451
-51660,Virginia,Harrisonburg city,53016,0.53016
-51670,Virginia,Hopewell city,22529,0.22529
-51678,Virginia,Lexington city,7446,0.07446
-51680,Virginia,Lynchburg city,82168,0.82168
-51683,Virginia,Manassas city,41085,0.41085
-51685,Virginia,Manassas Park city,17478,0.17478
-51690,Virginia,Martinsville city,12554,0.12554
-51700,Virginia,Newport News city,179225,1.79225
-51710,Virginia,Norfolk city,242742,2.42742
-51720,Virginia,Norton city,3981,0.03981
-51730,Virginia,Petersburg city,31346,0.31346
-51735,Virginia,Poquoson city,12271,0.12271
-51740,Virginia,Portsmouth city,94398,0.94398
-51750,Virginia,Radford city,18249,0.18249
-51760,Virginia,Richmond city,230436,2.30436
-51770,Virginia,Roanoke city,99143,0.99143
-51775,Virginia,Salem city,25301,0.25301
-51790,Virginia,Staunton city,24932,0.24932
-51800,Virginia,Suffolk city,92108,0.92108
-51810,Virginia,Virginia Beach city,449974,4.49974
-51820,Virginia,Waynesboro city,22630,0.2263
-51830,Virginia,Williamsburg city,14954,0.14954
-51840,Virginia,Winchester city,28078,0.28078
+51510,Virginia,Alexandria,159428,1.59428
+51520,Virginia,Bristol,16762,0.16762
+51530,Virginia,Buena Vista,6478,0.06478
+51540,Virginia,Charlottesville,47266,0.47266
+51550,Virginia,Chesapeake,244835,2.44835
+51570,Virginia,Colonial Heights,17370,0.1737
+51580,Virginia,Covington,5538,0.05538
+51590,Virginia,Danville,40044,0.40044
+51595,Virginia,Emporia,5346,0.05346
+51600,Virginia,Fairfax,24019,0.24019
+51610,Virginia,Falls Church,14617,0.14617
+51620,Virginia,Franklin,7967,0.07967
+51630,Virginia,Fredericksburg,29036,0.29036
+51640,Virginia,Galax,6347,0.06347
+51650,Virginia,Hampton,134510,1.3451
+51660,Virginia,Harrisonburg,53016,0.53016
+51670,Virginia,Hopewell,22529,0.22529
+51678,Virginia,Lexington,7446,0.07446
+51680,Virginia,Lynchburg,82168,0.82168
+51683,Virginia,Manassas,41085,0.41085
+51685,Virginia,Manassas Park,17478,0.17478
+51690,Virginia,Martinsville,12554,0.12554
+51700,Virginia,Newport News,179225,1.79225
+51710,Virginia,Norfolk,242742,2.42742
+51720,Virginia,Norton,3981,0.03981
+51730,Virginia,Petersburg,31346,0.31346
+51735,Virginia,Poquoson,12271,0.12271
+51740,Virginia,Portsmouth,94398,0.94398
+51750,Virginia,Radford,18249,0.18249
+51760,Virginia,Richmond,230436,2.30436
+51770,Virginia,Roanoke,99143,0.99143
+51775,Virginia,Salem,25301,0.25301
+51790,Virginia,Staunton,24932,0.24932
+51800,Virginia,Suffolk,92108,0.92108
+51810,Virginia,Virginia Beach,449974,4.49974
+51820,Virginia,Waynesboro,22630,0.2263
+51830,Virginia,Williamsburg,14954,0.14954
+51840,Virginia,Winchester,28078,0.28078
 53000,Washington,Washington,7614893,76.14893
 53001,Washington,Adams,19983,0.19983
 53003,Washington,Asotin,22582,0.22582
