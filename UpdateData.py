@@ -120,7 +120,7 @@ def fix_fips(df):
     
     # Making sure that the FIPS values are strings, and zero-padded.
     df['FIPS'] = df['FIPS'].fillna(0).astype('int32').astype('str').str.zfill(5)
-    
+
     
     # Returning the new dataframe
     return df

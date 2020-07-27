@@ -82,7 +82,7 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 02122,Alaska,Kenai Peninsula,58708,0.58708
 02130,Alaska,Ketchikan Gateway,13901,0.13901
 02150,Alaska,Kodiak Island,12998,0.12998
-02270,Alaska,Wade Hampton,8314,0.08314
+02158,Alaska,Kusilvak,8314,0.08314
 02164,Alaska,Lake and Peninsula,1592,0.01592
 02170,Alaska,Matanuska-Susitna,108317,1.08317
 02180,Alaska,Nome,10004,0.10004
@@ -1160,7 +1160,7 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 22053,Louisiana,Jefferson Davis,31368,0.31368
 22055,Louisiana,Lafayette,244390,2.4439
 22057,Louisiana,Lafourche,97614,0.97614
-22059,Louisiana,La Salle,14892,0.14892
+22059,Louisiana,LaSalle,14892,0.14892
 22061,Louisiana,Lincoln,46742,0.46742
 22063,Louisiana,Livingston,140789,1.40789
 22065,Louisiana,Madison,10951,0.10951
@@ -1833,7 +1833,7 @@ FIPS,STNAME,County,POPESTIMATE2019,PER100K
 35007,New Mexico,Colfax,11941,0.11941
 35009,New Mexico,Curry,48954,0.48954
 35011,New Mexico,De Baca,1748,0.01748
-35013,New Mexico,Dona Ana,218195,2.18195
+35013,New Mexico,Doña Ana,218195,2.18195
 35015,New Mexico,Eddy,58460,0.5846
 35017,New Mexico,Grant,26998,0.26998
 35019,New Mexico,Guadalupe,4300,0.043
