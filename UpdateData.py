@@ -136,6 +136,7 @@ def get_dicts(df1, df2):
     # Making a list of all FIPS values in the population set (States and counties)
     pop_fips = [*df2.index]
     
+    df1 = df1.sort_values('FIPS')
     # Making a list of county fips values, these are between '01001' and '56045' (included)
     index_01001 = int(*df1[df1['FIPS']=="01001"].index)
     index_56045 = int(*df1[df1['FIPS']=="56045"].index)
