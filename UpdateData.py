@@ -3,6 +3,10 @@
 import datetime
 import numpy as np
 import pandas as pd
+import gspread              # Google sheets
+import df2gspread as d2g    # Google sheets
+from oauth2client.service_account import ServiceAccountCredentials
+
 
 def Dataset(url1, url2, local1, final_loc):
     """
@@ -299,3 +303,15 @@ lst = list_dict['county_fips']
 power = power.loc[lst]
 power.reset_index(inplace = True)
 power.to_csv('data/choropleth.csv') 
+
+
+scope = ['https://spreadsheets.google.com/feeds',
+         'https://www.googleapis.com/auth/drive']
+
+credentials = ServiceAccountCredentials.from_json_keyfile_name(
+    r'C:\Users\matsl\Documents\Python\Covid-19\creds.json', scope)
+gc = gspread.authorize(credentials)
+
+spreadsheet_ID = '1ITDGipEyemKpXuLDgk3CcdcDzOzWNxWf1yR2cjuOMvA'
+wks_name = 'Master'
+d2g.upload(us_covid, spreadsheet_ID, wks_name, credentials=credentials, row_names=True)
