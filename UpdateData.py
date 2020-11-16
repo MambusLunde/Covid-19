@@ -253,6 +253,13 @@ def new_column(column, kind, data, data2, dict1, days = 1):
             # Taking the difference between days, and then dividing by that number of days
             temp = round(data.loc[fips, column].diff(periods=days).fillna(0)/days,0)
             
+
+            # Because of how the John Hopkins dataset handles removal of cases we find negative values, which doesn't make sense.
+            # I am aware that changing these to 0 will in situations over-report cases, but I feel that is better than negative values. 
+            for ind in range(len(temp)):
+                if temp[ind] < 0:
+                    temp[ind] = 0
+
             # For each FIPS value add to the list
             lst.extend(temp)
             
